@@ -1,4 +1,3 @@
-Here's a structured **README.md** for your **CodeVisor** project along with the required files:  
 
 ---
 
@@ -149,12 +148,6 @@ This project is licensed under the **MIT License**.
 3️⃣ Commit your changes (`git commit -m "Added new feature"`)  
 4️⃣ Push and create a **Pull Request**  
 
----
-
-## **📞 Contact**  
-📧 **Email:** your-email@example.com  
-🔗 **GitHub:** [yourusername](https://github.com/yourusername)  
-🔗 **LinkedIn:** [your-profile](https://linkedin.com/in/yourprofile)  
 
 ---
 
